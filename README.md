@@ -1,6 +1,7 @@
 # Market Insight Dashboard — Sentiment & Valuation Analysis
 
-**Goal:** A clean ui that demonstrates an end-to-end finance data workflow using real stock data. It contains Python scripts, SQL schema & queries, and Power BI instructions. The project is intentionally simple, beginner-friendly and professional.
+**Goal:** A clean ui that demonstrates an end-to-end finance data workflow using real stock data. It contains Python scripts, SQL schema & queries, and Power BI instructions. This project is intentionally simple and user-friendly.
+
 ---
 
 ## Project Overview
