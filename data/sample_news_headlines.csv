@@ -1,0 +1,7 @@
+ticker,published_at,source,author,title,description,url
+AAPL,2025-10-17 08:30:00,Yahoo Finance,Jane Doe,Apple launches new product line,Apple announced its latest devices today,https://finance.yahoo.com/apple-news
+AAPL,2025-10-16 09:15:00,Bloomberg,John Smith,Apple stock rises after earnings,Strong quarterly results push stock higher,https://bloomberg.com/apple-earnings
+MSFT,2025-10-17 10:00:00,CNBC,Alice Johnson,Microsoft announces AI partnership,Microsoft partners with top AI firm to enhance cloud services,https://cnbc.com/microsoft-ai
+MSFT,2025-10-16 11:20:00,Yahoo Finance,Bob Lee,Microsoft stock steady after new update,Microsoft releases software update with minimal impact on stock,https://finance.yahoo.com/microsoft-news
+GOOG,2025-10-17 12:00:00,BBC News,Sarah Kim,Alphabet invests in green energy,Alphabet commits $1B to renewable projects,https://bbc.com/google-green
+GOOG,2025-10-16 13:45:00,Reuters,Tom Brown,Google CEO speaks at tech summit,CEO discusses future tech plans at international summit,https://reuters.com/google-ceo
