@@ -1,0 +1,8 @@
+yfinance==0.2.20
+pandas==2.2.2
+numpy==1.26.2
+nltk==3.8.1
+requests==2.31.0
+sqlalchemy==2.1.0
+psycopg2-binary==2.9.7
+python-dotenv==1.0.0
